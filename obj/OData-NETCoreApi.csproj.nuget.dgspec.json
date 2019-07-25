@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/dev-fatih/NET-Core/OData-NETCoreApi/OData-NETCoreApi.csproj": {}
+  },
+  "projects": {
+    "/home/dev-fatih/NET-Core/OData-NETCoreApi/OData-NETCoreApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dev-fatih/NET-Core/OData-NETCoreApi/OData-NETCoreApi.csproj",
+        "projectName": "OData-NETCoreApi",
+        "projectPath": "/home/dev-fatih/NET-Core/OData-NETCoreApi/OData-NETCoreApi.csproj",
+        "packagesPath": "/home/dev-fatih/.nuget/packages/",
+        "outputPath": "/home/dev-fatih/NET-Core/OData-NETCoreApi/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/dev-fatih/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.OData": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/home/dev-fatih/NET-Core/OData-NETCoreApi/bin/Debug/netcoreapp2.2/OData-NETCoreApi.deps.json
+/home/dev-fatih/NET-Core/OData-NETCoreApi/bin/Debug/netcoreapp2.2/OData-NETCoreApi.runtimeconfig.json
+/home/dev-fatih/NET-Core/OData-NETCoreApi/bin/Debug/netcoreapp2.2/OData-NETCoreApi.runtimeconfig.dev.json
+/home/dev-fatih/NET-Core/OData-NETCoreApi/bin/Debug/netcoreapp2.2/OData-NETCoreApi.dll
+/home/dev-fatih/NET-Core/OData-NETCoreApi/bin/Debug/netcoreapp2.2/OData-NETCoreApi.pdb
+/home/dev-fatih/NET-Core/OData-NETCoreApi/obj/Debug/netcoreapp2.2/OData-NETCoreApi.csprojAssemblyReference.cache
+/home/dev-fatih/NET-Core/OData-NETCoreApi/obj/Debug/netcoreapp2.2/OData-NETCoreApi.csproj.CoreCompileInputs.cache
+/home/dev-fatih/NET-Core/OData-NETCoreApi/obj/Debug/netcoreapp2.2/OData-NETCoreApi.RazorAssemblyInfo.cache
+/home/dev-fatih/NET-Core/OData-NETCoreApi/obj/Debug/netcoreapp2.2/OData-NETCoreApi.RazorAssemblyInfo.cs
+/home/dev-fatih/NET-Core/OData-NETCoreApi/obj/Debug/netcoreapp2.2/OData-NETCoreApi.AssemblyInfoInputs.cache
+/home/dev-fatih/NET-Core/OData-NETCoreApi/obj/Debug/netcoreapp2.2/OData-NETCoreApi.AssemblyInfo.cs
+/home/dev-fatih/NET-Core/OData-NETCoreApi/obj/Debug/netcoreapp2.2/OData-NETCoreApi.RazorTargetAssemblyInfo.cache
+/home/dev-fatih/NET-Core/OData-NETCoreApi/obj/Debug/netcoreapp2.2/OData-NETCoreApi.dll
+/home/dev-fatih/NET-Core/OData-NETCoreApi/obj/Debug/netcoreapp2.2/OData-NETCoreApi.pdb
